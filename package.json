@@ -1,0 +1,28 @@
+{
+  "name": "minimalistic-dark-theme",
+  "displayName": "minimalistic-dark-theme",
+  "description": "",
+  "version": "0.0.3",
+  "publisher": "Lerskk",
+  "engines": {
+    "vscode": "^1.72.2"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "vscode",
+    "dark",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "minimal-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimal-dark-color-theme.json"
+      }
+    ]
+  }
+}
