@@ -2,7 +2,7 @@
   "name": "minimalistic-dark-theme",
   "displayName": "minimalistic-dark-theme",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "publisher": "Lerskk",
   "engines": {
     "vscode": "^1.72.2"

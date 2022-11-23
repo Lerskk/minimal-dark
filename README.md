@@ -1,3 +1,3 @@
-# minimalistic-dark-theme README
+# Minimal dark them
 
-This is just a custom theme
+I just love black and white
